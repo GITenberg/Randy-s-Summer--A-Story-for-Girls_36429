@@ -1,0 +1,29 @@
+_repo: Randy-s-Summer--A-Story-for-Girls_36429
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brooks, Amy
+    gutenberg_agent_id: '1796'
+    url: http://www.gutenberg.org/2009/agents/1796
+description: Illustrated by the author.
+gutenberg_issued: '2011-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36429'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Amusements -- Juvenile fiction'
+- !lcsh 'Summer -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'Family farms -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+title: 'Randy''s Summer: A Story for Girls'
+url: http://www.gutenberg.org/ebooks/36429
